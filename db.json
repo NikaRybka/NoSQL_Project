@@ -1,0 +1,73 @@
+{
+  "__default__": {
+    "id1": {
+      "guard": "d1523d373a8f4ed08ff3a1aac089d66f",
+      "value": {
+        "imie": "Weronika",
+        "nazwisko": "Rybinska",
+        "login": "Nika_rybka",
+        "_id": "fc343a0c765447c8aadbec4b1ea9d0e5"
+      }
+    },
+    "id1.Med": {
+      "guard": "dc098329c5754de6ae2b580df5f6ea72",
+      "value": [
+        {
+          "file": "Zajecia1.R",
+          "path": "E:\\Metody eksploracji danych\\Zajecia1\\Zajecia1.R",
+          "_id": "759ed1b9c75647aaa0a70a58626526de"
+        },
+        {
+          "plik": "Zaj2.R",
+          "path": "E:\\Metody eksploracji danych\\Zajecia2\\Zaj2.R",
+          "_id": "86ac33da461f4b49b2f6c6b850a68b0b"
+        },
+        {
+          "plik": "Praca_domowa1.R",
+          "path": "E:\\Metody eksploracji danych\\Pd1\\Praca_domowa1.R",
+          "_id": "3a5dfd836a0a46cfa448bbd26273afca"
+        }
+      ]
+    },
+    "id1.Zajecia1": {
+      "guard": "c4b3a60741e449b1bf7faf2a995d8118",
+      "value": [
+        {
+          "file": "Zajecia1.R",
+          "path": "E:\\Metody eksploracji danych\\Zajecia1\\Zajecia1.R",
+          "_id": "759ed1b9c75647aaa0a70a58626526de"
+        }
+      ]
+    },
+    "id1.Zajecia2": {
+      "guard": "6e87edb75fd54a5ca54687ebf991c03b",
+      "value": [
+        {
+          "plik": "Zaj2.R",
+          "path": "E:\\Metody eksploracji danych\\Zajecia2\\Zaj2.R",
+          "_id": "86ac33da461f4b49b2f6c6b850a68b0b"
+        }
+      ]
+    },
+    "id1.Praca_domowa": {
+      "guard": "02f3879cf80f4a6e9a077d6442a74795",
+      "value": [
+        {
+          "plik": "Praca_domowa1.R",
+          "path": "E:\\Metody eksploracji danych\\Pd1\\Praca_domowa1.R",
+          "_id": "3a5dfd836a0a46cfa448bbd26273afca"
+        }
+      ]
+    },
+    "id1.kolokwium": {
+      "guard": "7ca16d2a0736466b9d30aa8d9861df60",
+      "value": [
+        {
+          "plik": "Kolokwium1.txt",
+          "path": "E:\\Metody eksploracji danych\\Kolokwium1.txt",
+          "_id": "5368a1c4bc6f43d183bc3f332e616e7f"
+        }
+      ]
+    }
+  }
+}
